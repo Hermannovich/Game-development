@@ -2,6 +2,7 @@
 Learn how to build a video game.
 
 
-  First step: 
+## First step: 
+
     Learn how to program in C++
       
