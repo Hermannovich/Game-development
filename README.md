@@ -6,9 +6,9 @@ Learn how to build a video game.
     Learn how to program in C++, because it will provide a solid base for understand many industrial 
 	tools used for game development.
 	
-	1. <b>Review logic, conditionals, loops and arrays;</b>
+	1. __ Review logic, conditionals, loops and arrays __
 	
-	2. <b>Review functions;</b>
+	2. __ Review functions __
      
-    3. <b>Review References and Pointers</b>
+    3. __ Review References and Pointers __
       
