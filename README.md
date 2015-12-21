@@ -3,7 +3,7 @@ Learn how to build a video game.
 
 
 ## First step: 
-    Learn how to program in __C++__, because it will provide a solid base for understand many industrial 
+    Learn how to program in C++, because it will provide a solid base for understand many industrial 
 	tools used for game development.
 	
 	1. Review logic, conditionals, loops and arrays;
