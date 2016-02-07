@@ -10,5 +10,7 @@ Learn how to build a video game.
 	
 	2. Review functions;
      
-    3. Review References and Pointers.
+    3. Review References and Pointers;
+	
+	4. Template and meta programming.
       
