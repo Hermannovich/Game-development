@@ -13,4 +13,6 @@ Learn how to build a video game.
     3. Review References and Pointers;
 	
 	4. Template and meta programming.
+	
+	5. Solve every assignement of http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1136/
       
